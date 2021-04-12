@@ -1,1 +1,10 @@
 /* placeholder for styling to establish folder structure */
+.jumbotron h1 {
+
+    color: #ff0505;
+    font-size: 48px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+  
+  }
+  
